@@ -1,0 +1,57 @@
+{
+    "update.mode": "manual",
+    "workbench.colorTheme": "Monokai",
+    "workbench.enableExperiments": false,
+    "explorer.confirmDelete": false,
+    "terminal.integrated.shell.osx": "/usr/local/bin/fish",
+    /* "files.associations": {
+        "*.vue": "vue",
+        "*.tmpl": "html"
+    },
+    "javascript.suggest.enabled": false,
+    "[vue]": {
+        "editor.formatOnSave": false,
+        "editor.codeActionsOnSave": {
+            "source.fixAll.eslint": true
+        }
+    },
+    "vetur.validation.template": false,
+    "vetur.format.defaultFormatter.js": "prettier-eslint",
+    "vetur.format.defaultFormatterOptions": {
+        "prettier": {
+            "singleQuote": true,
+            "eslintIntegration": true,
+            "semi": false,
+            "trailingComma": "es5"
+        }
+    }, */
+    "[php]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "junstyle.php-cs-fixer"
+    },
+    "php-cs-fixer.executablePath": "/usr/local/bin/php-cs-fixer",
+    "php-cs-fixer.config": "/Users/4lkaid/Documents/php_cs/.php_cs",
+    "go.formatTool": "goimports",
+    "go.useLanguageServer": true,
+    "[go]": {
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true
+        },
+        "editor.snippetSuggestions": "bottom"
+    },
+    "[go.mod]": {
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true
+        }
+    },
+    "go.languageServerExperimentalFeatures": {
+        "diagnostics": true,
+        "documentLink": true
+    },
+    "gopls": {
+        "usePlaceholders": true,
+        "staticcheck": false
+    }
+}

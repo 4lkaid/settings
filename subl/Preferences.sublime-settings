@@ -1,0 +1,22 @@
+{
+    "mini_diff": "auto",
+    "translate_tabs_to_spaces": true,
+    "highlight_line": true,
+    "highlight_modified_tabs": true,
+    "show_encoding": true,
+    "open_files_in_new_window": false,
+    "create_window_at_startup": false,
+    "close_windows_when_empty": false,
+    "folder_exclude_patterns":
+    [
+        ".svn",
+        ".git",
+        ".hg",
+        "CVS",
+        "node_modules"
+    ],
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+}
