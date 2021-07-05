@@ -30,7 +30,7 @@
         "editor.defaultFormatter": "junstyle.php-cs-fixer"
     },
     "php-cs-fixer.executablePath": "/usr/local/bin/php-cs-fixer",
-    "php-cs-fixer.config": "/Users/4lkaid/Documents/php_cs/.php_cs",
+    "php-cs-fixer.config": "/Users/4lkaid/Documents/php_cs/.php-cs-fixer.php",
     "go.formatTool": "goimports",
     "go.useLanguageServer": true,
     "[go]": {
